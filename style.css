@@ -1,7 +1,10 @@
-.jobtitle{
-    color: #686868;
-    background-color:  #eeeeee
+.container {
+  text-align: center;
 }
-.section-title{
-    color: #686868
+.jobtitle {
+  color: #686868;
+  background-color: #eeeeee;
+}
+.section-title {
+  color: #686868;
 }
