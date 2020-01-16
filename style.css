@@ -18,7 +18,10 @@ i{
 }
 footer {
   position: fixed;
-  height: 100px;
+  left: 0;
   bottom: 0;
   width: 100%;
+  background-color: grey;
+  color: black;
+  text-align: center;
 }
