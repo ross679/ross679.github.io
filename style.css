@@ -38,7 +38,7 @@ i {
 } */
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
   .name {
     font-size: 60px;
   }
@@ -48,7 +48,7 @@ i {
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
   .name {
     font-size: 60px;
   }
@@ -58,7 +58,7 @@ i {
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .name {
     font-size: 60px;
   }
