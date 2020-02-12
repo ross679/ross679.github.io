@@ -27,15 +27,6 @@ i {
 }
 
 /* Responsive Queries */
-/* 
-@media (max-width: 400px){
-  .name {
-    font-size: 60px;
-  }
-  .social {
-    margin: 10px 5px;
-  }
-} */
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 600px) {
@@ -54,9 +45,6 @@ i {
   }
   .social {
     margin: 10px 5px;
-  }
-  body {
-    background-color: aqua;
   }
 }
 
