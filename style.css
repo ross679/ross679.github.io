@@ -15,14 +15,14 @@ i {
 .jumbo-color {
   background-color: #eee;
 }
-footer {
+.footer-copyright {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #686868;
-  color: black;
-  text-align: center;
+  color: grey;
+  background-color: black;
+  font-size: 20px;
 }
 
 /* Responsive Queries */
