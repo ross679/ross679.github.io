@@ -25,6 +25,8 @@ footer {
   text-align: center;
 }
 
+/* Responsive Queries */
+
 @media (max-width: 414px){
   .name {
     font-size: 60px;
