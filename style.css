@@ -28,7 +28,7 @@ i {
 
 /* Responsive Queries */
 
-@media (min-width: 700px){
+@media (min-width: 300px){
   .name {
     font-size: 60px;
   }
