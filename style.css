@@ -55,6 +55,9 @@ i {
   .social {
     margin: 10px 5px;
   }
+  body {
+    background-color: aqua;
+  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
