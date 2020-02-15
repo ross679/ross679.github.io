@@ -15,6 +15,12 @@ i {
 .jumbo-color {
   background-color: #eee;
 }
+.avatar{
+  width: 300px;
+  height: 300px;
+  float: right;
+  filter: grayscale(100%);
+}
 .footer-copyright {
   position: fixed;
   left: 0;
@@ -25,12 +31,7 @@ i {
   font-size: 20px;
   border-top: 3px solid #eee;
 }
-.avatar{
-  width: 300px;
-  height: 300px;
-  float: right;
-  filter: grayscale(100%);
-}
+
 
 /* Responsive Queries */
 
