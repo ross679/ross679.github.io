@@ -57,7 +57,8 @@ i {
   }
   .social {
     margin: 10px 5px;
-  }.avatar {
+  }
+  .avatar {
     margin: auto;
   }
   .ebbwButton {
@@ -72,6 +73,9 @@ i {
   }
   .social {
     margin: 10px 5px;
+  }
+  .avatar {
+    margin: auto;
   }
   .ebbwButton {
     margin: auto;
