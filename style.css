@@ -46,7 +46,7 @@ i {
     margin: 10px 5px;
   }
   .ebbwButton {
-    margin: auto;
+    margin-top: 10px;
   }
 }
 
@@ -62,7 +62,7 @@ i {
     margin: auto;
   }
   .ebbwButton {
-    
+    margin-top: 10px;
   }
 }
 
@@ -78,7 +78,6 @@ i {
     margin: auto;
   }
   .ebbwButton {
-    margin: auto;
     margin-top: 10px;
   }
 }
