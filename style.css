@@ -62,7 +62,7 @@ i {
     margin: auto;
   }
   .ebbwButton {
-    margin: auto;
+    
   }
 }
 
@@ -79,6 +79,7 @@ i {
   }
   .ebbwButton {
     margin: auto;
+    margin-top: 10px;
   }
 }
 
@@ -90,6 +91,9 @@ i {
   .social {
     margin: 10px 5px;
   }
+  .ebbwButton {
+    margin-top: 10px;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -99,5 +103,8 @@ i {
   }
   .social {
     margin: 10px 5px;
+  }
+  .ebbwButton {
+    margin-top: 10px;
   }
 }
