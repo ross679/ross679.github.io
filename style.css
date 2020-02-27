@@ -50,7 +50,8 @@ i {
     margin: 10px 5px;
   }
   .ebbwButton {
-    margin-top: 10px;
+    display: block;
+    margin: auto;
   }
 }
 
