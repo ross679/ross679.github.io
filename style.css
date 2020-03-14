@@ -12,6 +12,10 @@ i {
 .jumbo-color {
   background-color: #eee;
 }
+.ebbwButton {
+  display: block;
+  margin: auto;
+}
 .footer-copyright {
   position: fixed;
   left: 0;
