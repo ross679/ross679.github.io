@@ -17,10 +17,8 @@ i {
   margin: auto;
 }
 .footer-copyright {
-  position: fixed;
-  left: 0;
-  bottom: 0;
   width: 100%;
+  margin-top: 100px;
   color: grey;
   background-color: black;
   font-size: 20px;
