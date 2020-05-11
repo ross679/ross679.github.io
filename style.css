@@ -16,6 +16,7 @@ i {
   display: inline-block;
   margin: auto;
   width: 33%;
+  height: 200px;;
 }
 .footer-copyright {
   position: fixed;
