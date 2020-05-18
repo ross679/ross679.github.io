@@ -9,8 +9,8 @@ i {
   font-size: 30px;
   height: 10px;
 }
-.jumbo-color {
-  background-color: #eee;
+.jumbotron {
+  background-color: #F1F1F1;
 }
 .ebbwButton {
   display: inline-block;
