@@ -1,5 +1,6 @@
 .container {
   color: gray;
+  background-image: url(index-bg.jpg);
 }
 .jobtitle {
   color: #686868;
