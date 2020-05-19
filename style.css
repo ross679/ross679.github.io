@@ -1,8 +1,10 @@
-.container {
-  color: gray;
+body {
   background-image: url(images/index-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+.container {
+  color: gray;
 }
 .jobtitle {
   color: #686868;
