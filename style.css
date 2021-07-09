@@ -8,7 +8,7 @@ body {
 }
 .jobtitle {
   color: #686868;
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 i {
   font-size: 30px;
@@ -22,7 +22,7 @@ i {
   display: inline-block;
   margin: auto;
   width: 33%;
-  height: 200px;;
+  height: 200px;
 }
 .footer-copyright {
   position: fixed;
