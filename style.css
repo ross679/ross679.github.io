@@ -87,6 +87,9 @@ footer {
 li {
   color: black;
 }
+.accordion {
+  width: 30%
+}
 
 
 /* Responsive Queries */
