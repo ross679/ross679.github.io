@@ -36,6 +36,9 @@ header h1 {
 header h2 {
   color: teal;
 }
+h3 {
+  padding-top: 15px;
+}
 nav {
   background-color: teal;
   float: right;
