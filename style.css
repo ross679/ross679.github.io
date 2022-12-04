@@ -94,10 +94,14 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 450px) {
+header {
+  padding: 0;
+}
 header h1 {
   font-size: 50px;
  } 
  main {
+  padding-left: 15px;
   width: 70%
  }
 
