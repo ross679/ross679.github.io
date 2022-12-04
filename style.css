@@ -91,8 +91,8 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
-nav a {
- font-size: 40px;
+nav  {
+ display: block;
 }
 img {
   height: 160px;
