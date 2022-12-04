@@ -93,11 +93,8 @@ footer {
 /* Responsive Queries */
 
 /* Extra small devices (phones, 600px and down) */
-@media (max-width: 600px) {
-  nav {
-    
-  }
-  header h1 {
+@media (max-width: 450px) {
+header h1 {
   font-size: 50px;
  } 
  main {
