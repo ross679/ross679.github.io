@@ -111,7 +111,7 @@ header h1 {
   
  }
  .further_studies {
-  width: 40%
+  width: 40%;
  }
  footer {
   padding-left: 15px;
@@ -120,17 +120,6 @@ header h1 {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media (max-width: 600px) {
-  nav {
-    height: 5%;
-  }
-  header {
-  height: 10%;
-  font-size: 10px;
- } 
- main {
-  width: 200%;
-  font-size: 15px;
- }
  
 }
 
