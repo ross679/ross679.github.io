@@ -94,6 +94,13 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
+nav  {
+  height: 0;
+  position: fixed;
+}
+img {
+  margin-top: 80px;
+}
 header {
   padding: 0;
 }
@@ -105,7 +112,7 @@ header h1 {
  }
  main {
   padding-left: 15px;
-  width: 70%
+  
  }
  footer {
   padding-left: 0;
