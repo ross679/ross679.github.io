@@ -98,16 +98,15 @@ footer {
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 600px) {
   nav {
-    height: 5%;
+    
   }
-  header {
-  height: 10%;
-  font-size: 10px;
+  header h1 {
+  font-size: 50px;
  } 
  main {
-  width: 200%;
-  font-size: 15px;
+  width: 70%
  }
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
