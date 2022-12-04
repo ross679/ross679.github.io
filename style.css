@@ -91,16 +91,17 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
-
+nav a {
+ font-size: 40px;
+}
 img {
-  size: 10%;
-  padding-top: 60px;
+  height: 160px;
 }
 header {
   padding: 15px;
 }
 header h1 {
-  font-size: 50px;
+  font-size: 60px;
  } 
  h3 {
   padding-top: 20px;
