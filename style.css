@@ -99,7 +99,8 @@ nav  {
   display: block;
 }
 img {
-  margin-top: 80px;
+  size: 10%;
+  padding-top: 60px;
 }
 header {
   padding: 15px;
@@ -108,7 +109,7 @@ header h1 {
   font-size: 50px;
  } 
  h3 {
-  padding-top: 20px;;
+  padding-top: 20px;
  }
  main {
   padding-left: 15px;
