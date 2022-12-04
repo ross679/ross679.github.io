@@ -17,6 +17,22 @@ nav {
   position: fixed;
   width: 100%;
   padding-left: 80px;
+  background-color: teal;
+  float: right;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+nav a {
+  padding: 20px;
+}
+nav a:hover {
+  color: white;
+}
+#resume_link_style {
+  border: 3px solid white;
+  border-radius: 40px;
 }
 img {
   height: 100px;
@@ -36,39 +52,23 @@ header h1 {
 header h2 {
   color: teal;
 }
-h3 {
+header h3 {
   padding-top: 15px;
-}
-nav {
-  background-color: teal;
-  float: right;
 }
 main {
   color: teal;
   padding-left: 90px;
   padding-top: 20px;
 }
+.accordion {
+  width: 30%;
+}
 i {
   color: black;
   font-size: 30px;
 }
-nav a {
-  padding: 20px;
-}
-nav a:hover {
-  color: white;
-}
-a {
-  color: black;
-  text-decoration: none;
-}
-
 .info {
   color: black;
-}
-#resume {
-  border: 3px solid white;
-  border-radius: 40px;
 }
 .external_link {
   font-size: 15px;
@@ -87,12 +87,8 @@ footer {
   height: 20%;
   margin-top: 10%;
 }
-li {
-  color: black;
-}
-.accordion {
-  width: 30%;
-}
+
+
 
 
 /* Responsive Queries */
