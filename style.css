@@ -60,7 +60,7 @@ main {
   padding-left: 90px;
   padding-top: 20px;
 }
-.accordion {
+.accordion, #about {
   width: 30%;
 }
 i {
