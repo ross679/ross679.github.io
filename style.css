@@ -95,7 +95,6 @@ footer {
 @media (max-width: 500px) {
 nav  {
   width: 500px;
-  display: block;
 }
 img {
   size: 10%;
