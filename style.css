@@ -93,7 +93,10 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
-nav  {
+body {
+  width: 100%
+}
+  nav  {
   width: 500px;
 }
 img {
