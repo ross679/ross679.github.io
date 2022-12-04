@@ -95,7 +95,7 @@ footer {
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
 nav  {
-  height: 10%;
+  display: block;
 }
 img {
   margin-top: 80px;
