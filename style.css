@@ -93,7 +93,7 @@ footer {
 /* Responsive Queries */
 
 /* Extra small devices (phones, 600px and down) */
-@media (max-width: 450px) {
+@media (max-width: 500px) {
 header {
   padding: 0;
 }
