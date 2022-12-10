@@ -59,6 +59,9 @@ main {
   padding-left: 90px;
   padding-top: 20px;
 }
+main a:hover {
+  color: black;
+}
 i {
   color: black;
   font-size: 30px;
