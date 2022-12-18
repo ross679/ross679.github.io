@@ -76,6 +76,9 @@ i {
   font-size: 15px;
   color: teal;
 }
+#contact {
+  padding-top: 5px;
+}
 .contact_icon {
   color: black;
   padding-right: 5px;
@@ -89,6 +92,7 @@ footer {
   height: 20%;
   margin-top: 10%;
 }
+
 
 /* Responsive Queries */
 
