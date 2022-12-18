@@ -28,9 +28,6 @@ a {
 .navbar a:hover {
   color: white;
 }
-footer a:hover {
-  color: white;
-}
 #resume_link_style {
   border: 3px solid white;
   border-radius: 40px;
@@ -66,20 +63,12 @@ main {
 main a:hover {
   color: black;
 }
-i {
-  color: black;
-  font-size: 30px;
-}
 .info {
   color: black;
 }
 .external_link {
   font-size: 15px;
   color: teal;
-}
-.contact_icon {
-  color: black;
-  padding-right: 5px;
 }
 footer {
   border-top: 3px solid black;
@@ -90,6 +79,18 @@ footer {
   height: 20%;
   margin-top: 10%;
 }
+footer i {
+  color: black;
+  font-size: 30px;
+}
+footer .contact_icon {
+  color: black;
+  padding-right: 5px;
+}
+footer a:hover {
+  color: white;
+}
+
 
 
 /* Responsive Queries */
