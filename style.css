@@ -14,6 +14,7 @@ Google Font ('Open Sans') import, 'sans-serif' used as a Web-Safe backup in the 
   scroll-behavior: smooth;
 }
 .navbar  {
+  font-size: large;
   padding-left: 80px;
   background-color: teal;
 }
