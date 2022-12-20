@@ -119,6 +119,9 @@ header h1 {
  footer {
   padding-left: 15px;
  }
+ #contact {
+  padding: 0;
+ } 
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
