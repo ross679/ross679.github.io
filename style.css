@@ -95,7 +95,7 @@ footer a:hover {
 
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
-main {
+  main {
   margin: auto;
   font-size: large;
 }
