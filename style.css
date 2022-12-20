@@ -130,7 +130,9 @@ header h1 {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media (max-width: 768px) {
-  
+  header h1 {
+    font-size: 100px;
+  }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
