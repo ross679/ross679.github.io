@@ -108,6 +108,7 @@ header {
   padding: 10px;;
 }
 main {
+  width: 85%;
   padding-left: 10px;
 }
 header h1 {
