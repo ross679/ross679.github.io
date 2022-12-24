@@ -96,7 +96,8 @@ footer a:hover {
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 500px) {
 .navbar-toggler {
-  padding-left: 10px;;
+  padding-left: 10px;
+  
 }
 main {
   font-size: large;
@@ -108,7 +109,7 @@ header {
   padding: 10px;;
 }
 main {
-  width: 85%;
+  width: 90%;
   padding-left: 10px;
 }
 header h1 {
