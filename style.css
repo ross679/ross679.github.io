@@ -18,14 +18,12 @@ Google Font ('Open Sans') import, 'sans-serif' used as a Web-Safe backup in the 
   padding-left: 10px;
   background-color: teal;
 }
-.navbar a {
+a {
   color: black;
   text-decoration: none;
-  margin-left: 10px;
 }
 .navbar a {
   padding: 20px;
-  margin-left: 70px;
 }
 .navbar a:hover {
   color: white;
@@ -37,9 +35,6 @@ img {
   float: right;
   height: 250px;
   margin-right: 100px;
-}
-.info a {
-  color: black;
 }
 header {
   background-color: #010101;
