@@ -173,7 +173,37 @@ header h1 {
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (max-width: 992px) {
-  
+  .navbar-toggler {
+    padding-left: 10px;
+    
+  }
+  main {
+    font-size: large;
+  }
+  img {
+    float: right;
+    margin-right: 0;
+    height: 60px;
+  }
+  header {
+    padding: 10px;
+  }
+  main {
+    width: 90%;
+    padding-left: 10px;
+  }
+  header h1 {
+    font-size: 50px;
+   } 
+   h3 {
+    padding-top: 20px;
+   }
+   footer {
+    padding-left: 15px;
+   }
+   #contact {
+    padding: 0;
+   } 
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
